@@ -75,8 +75,8 @@ and once the installation is complete, drag and drop the zip file downloaded in 
 - NovaSkin様<br>
 https://minecraft.novaskin.me/wallpapers/<br>
 ### 音
-<!-- - Pixabay様<br> -->
-<!- https://pixabay.com<br>  -->
+<!-- - Pixabay様 --> <br>
+<!- https://pixabay.com --> <br>
 - FreeSound様<br>
 https://freesound.org<br>
 
@@ -92,8 +92,8 @@ https://labs.google/fx/ja/tools/image-fx
 - NovaSkin
 https://minecraft.novaskin.me/wallpapers/
 ### Sound
-<!-- - Pixabay<br> -->
-<!- https://pixabay.com<br>  -->
+<!-- - Pixabay --> <br>
+<!- https://pixabay.com --> <br>
 - FreeSound<br>
 https://freesound.org<br>
 
