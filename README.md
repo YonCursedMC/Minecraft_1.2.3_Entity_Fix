@@ -43,7 +43,6 @@ https://multimc.org/#Download<br>
 
 ### サーバー
 - 普通のMinecraftサーバーと同じです。各自で調べてやってみてください。<br>
-※ クライアントと動作が違い、完璧ではなく、バグも多いです！やる際はバグを許容してください！<br>
 
 ## How to run it
 ### Client
@@ -65,7 +64,6 @@ and once the installation is complete, drag and drop the zip file downloaded in 
 
 ### Server
 - It's the same as a normal Minecraft server. Please do your own research and try it out.<br>
-※ It works differently from the client, is not perfect, and has many bugs! Please be patient with the bugs as you do so!<br>
 
 ## クレジット
 クレジット
@@ -104,6 +102,8 @@ You'll have to wait to try it out to see what the elements are.<br>
 
 ※ やる際の注意
 - マルチ限定です。やる際は注意してください。
+- 再び新たなワールドでマルチする場合は、インスタンスを作り直してください。
 
 ※ Notes when playing on a server
 - This is for multiplayer only. Please be careful when playing.
+- If you want to play multiplayer in a new world again, please create a new instance.
