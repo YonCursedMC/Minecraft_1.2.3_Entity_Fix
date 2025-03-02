@@ -77,6 +77,8 @@ https://minecraft.novaskin.me/wallpapers/<br>
 <!-- https://pixabay.com <br> -->
 - FreeSound様<br>
 https://freesound.org<br>
+- VoiceVox様<br>
+https://voicevox.hiroshiba.jp/term/<br>
 
 ありがとうございます！<br>
 
@@ -87,13 +89,15 @@ Credits
 ### Image generation
 - Google ImageFX<br>
 https://labs.google/fx/ja/tools/image-fx
-- NovaSkin
-https://minecraft.novaskin.me/wallpapers/
+- NovaSkin<br>
+https://minecraft.novaskin.me/wallpapers/<br>
 ### Sound
 <!-- - Pixabay <br> -->
 <!-- https://pixabay.com <br> -->
 - FreeSound<br>
 https://freesound.org<br>
+- VoiceVox<br>
+https://voicevox.hiroshiba.jp/term/<br>
 
 Thank you!<br>
 
