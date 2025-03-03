@@ -24,7 +24,7 @@ At first it was Steve's skin, but to differentiate them, Player844448 had a cute
 Development progressed smoothly, but for some reason a virus got into the development PC midway through.
 As a virus got into the PC while developing the friendship level, it was not possible to add the friendship level, and development was abandoned midway.
 However, I didn't give up and looked into the PC, and suddenly Player844448 appeared and started talking. Moreover, the skin is slightly different...?
-Player844448 said things like, ``If you don't protect me, the world will collapse,'' and ``There's a possibility that humans will attack.''
+Player844448 said things like, "If you don't protect me, the world will collapse," and "There's a possibility that humans will attack."
 I watched Player844448 for a while, but for some reason sheep, chickens, and villagers began attacking Player844448, and he was defeated.
 Then, mysterious files were suddenly generated, the GUI went haywire, textures sometimes became strange, mysterious flickering entities appeared, and things that were determined to be "entities" suddenly disappeared. All sorts of strange things started to happen.
 Who did this and for what purpose...
