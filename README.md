@@ -36,6 +36,7 @@ Who did this and for what purpose...
 - MCPのライセンスによりコードは公開しません。
 - 点滅やドッキリ要素、ホラー音が多いです。やる際は十分注意してください。
 - 実況などで使う場合は、このバージョンのURLのクレジット表記をしてくれると嬉しいです。
+- ストーリーに「ウイルス」との文言がありますが、ウイルスは含まれてないので安心してやってください。
 
 ## Caution
 - This version was not actually released by Mojang, nor is it officially certified.
@@ -44,6 +45,7 @@ Who did this and for what purpose...
 - Due to the MCP license, the code will not be released.
 - There are many flashing, surprising elements, and horror sounds. Please be careful when playing.
 - If you use this in a live commentary, etc., I would appreciate it if you could credit this version's URL.
+- Although the story contains the word "virus", please rest assured that it does not contain any viruses.
 
 ## 動かし方
 ### クライアント
