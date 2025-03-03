@@ -2,10 +2,32 @@
 <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/Yon4800/1.2.3_Entity_Fix/total?style=for-the-badge">
 
 ## ストーリー
-***
+1.2.3を開発している途中に、Entity Fixというビルドを出そうとしていた。
+そのEntity Fixはマルチプレイヤー限定で、2人のエンティティを追加した。
+そのどちらかがランダムに出てきて、どちらかの仲良し度を高めようというコンセプトで作ったものであった。
+そのエンティティの名前は仮で適当に「Player844448」「Entity4466」と名付けた。
+はじめはスティーブのスキンだったのだが、区別化のために、Player844448はかわいいスキン、Entity4466は、スティーブぽい青年のスキンにした。
+順調に開発は進んでいったのだが、途中でなぜか開発用PCにウイルスが混入してしまった。
+仲良し度を開発している途中でウイルスが混入したので、仲良し度は追加できなく、途中で開発を断念した。
+しかし、あきらめずそのPCを探ってみると、突然Player844448が現れしゃべりだすようになっていた。しかも、スキンが少し変わってる...？
+Player844448は、「私を守らないと世界が崩壊する」とのことを言っていたり、「人間が襲ってくる可能性がある」と言っていた。
+しばらくPlayer844448の様子を見ていたが、なぜか羊や鶏、そして村人がPlayer844448を襲ってきて、Player844448は倒されてしまった。
+そうすると急に謎のファイルが生成され、突然GUIがおかしくなり、テクスチャもまれにおかしくなったり、謎のちかちかするエンティティが出てきたり、「エンティティ」判定のものが急に消えたりと、いろいろおかしくなり始めていた。
+だれがどのような目的でこんなことをしたのか...
 
 ## stories
-***
+While developing 1.2.3, I was about to release a build called Entity Fix.
+The Entity Fix is multiplayer-only and adds two new entities.
+The concept was that one of them would appear at random, and the idea was to increase the level of friendship between them.
+The entities were tentatively named "Player844448" and "Entity4466".
+At first it was Steve's skin, but to differentiate them, Player844448 had a cute skin, and Entity4466 had a skin of a young man who looked like Steve.
+Development progressed smoothly, but for some reason a virus got into the development PC midway through.
+As a virus got into the PC while developing the friendship level, it was not possible to add the friendship level, and development was abandoned midway.
+However, I didn't give up and looked into the PC, and suddenly Player844448 appeared and started talking. Moreover, the skin is slightly different...?
+Player844448 said things like, ``If you don't protect me, the world will collapse,'' and ``There's a possibility that humans will attack.''
+I watched Player844448 for a while, but for some reason sheep, chickens, and villagers began attacking Player844448, and he was defeated.
+Then, mysterious files were suddenly generated, the GUI went haywire, textures sometimes became strange, mysterious flickering entities appeared, and things that were determined to be "entities" suddenly disappeared. All sorts of strange things started to happen.
+Who did this and for what purpose...
 
 ## 注意
 - このバージョンはMojang公式から実際に出されたものではなく、また公式に認定されたものでもありません。
