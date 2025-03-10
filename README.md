@@ -103,6 +103,8 @@ https://minecraft.novaskin.me/wallpapers/<br>
 https://freesound.org<br>
 - VoiceVox様<br>
 https://voicevox.hiroshiba.jp/term/<br>
+### 監督
+- ajmpm様
 
 ありがとうございます！<br>
 
