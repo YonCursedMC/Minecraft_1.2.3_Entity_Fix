@@ -1,4 +1,4 @@
-# Minecraft 1.2.3 Entity Fix
+# Minecraft 1.2.3 Entity Fix(Discontinue. Do not update.)
 <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/Yon4800/1.2.3_Entity_Fix/total?style=for-the-badge">
 
 ## ストーリー
